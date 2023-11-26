@@ -1,0 +1,20 @@
+People of drinking age: 11
+People of non-drinking age: 5
+=====People who can drink=====
+Adelia Merchant
+Giana Lynwood
+Kenzie Simons
+Brennan Rey
+Kelsey Hendry
+Allyn Berry
+Isidora Hewitt
+Thelma Rennell
+Madeleine Hardy
+Lorena Stoke
+Maddison Gilbert
+=====People who cannot drink=====
+Kylee Garrod
+Courtney Brittain
+Kaleb Dixon
+Amabel Adair
+Alexandra Pearson

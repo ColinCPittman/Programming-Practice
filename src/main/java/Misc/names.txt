@@ -1,0 +1,20 @@
+Adelia,Merchant,22
+Clover Quickley,22
+Giana,Lynwood,22
+Kylee,Garrod,17
+Courtney,Brittain,17
+Kenzie,Simons,24
+Leon,Ilbert,twenty
+Kaleb,Dixon,17
+Brennan,Rey,23
+Kelsey,Hendry,25
+Allyn,Berry,23
+Amabel,Adair,19
+Isidora,Hewitt,24
+Thelma,Rennell,23
+Madeleine,Hardy,23
+Stephanie,Moore,21.5
+Alexandra,Pearson,20
+Bernard,Chuck,Hodgson,26
+Lorena,Stoke,22
+Maddison,Gilbert,26,England

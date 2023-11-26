@@ -1,0 +1,36 @@
+1) Write a program which reads all lines in names.txt and writes them into output.txt
+	JAVA:
+		File file = new File("name");
+		File file2 = new File("name2");
+		Scanner sc = new Scanner(file);
+		sc.nextLine();
+		sc.hasNextLine();
+		PrintWriter pw = new PrintWriter(file2);
+		pw.println();
+		if(pw != null) pw.close();
+	C#:
+		StreamReader sr = new StreamReader("..\\..\\..\\name");
+		StreamWriter sw = new StreamWriter("..\\..\\..\\name2");
+		sr.ReadLine();
+		sw.WriteLine();
+		sw.EndOfStream;
+		if(sw != null) sw.close();
+
+2) Write a program which reads all lines in names.txt and writes to output.txt only valid entries
+	valid entries are in the following format:
+		string,string,integer
+	and entry may still be valid even if it has more commas, but the first three values must as above
+		e.g.: string,string,integer,integer 		IS VALID
+		e.g.: string,integer,integer 				IS NOT VALID
+
+3) Write a program which reads all lines in names.txt and writes to output.txt only valid entries, and writes to error.txt all invalid entries
+
+4) Write a program which reads all lines in names.txt and writes to output.txt and error.txt as below:
+	all invalid entries are writen verbatim into error.txt
+	output.txt has the following output:
+		People of drinking age: [TOTAL_NUMBER_OF_DRINKING_AGE_PEOPLE]
+		People of non-drinking age: [TOTAL_NUMBER_OF_NON-DRINKING_AGE_PEOPLE]
+		=====People who can drink=====
+		[LIST_OF_DRINKERS_ONE_PER_LINE]
+		=====People who cannot drink=====
+		[LIST_OF_NON-DRINKERS_ONE_PER_LINE]

@@ -1,0 +1,42 @@
+Course Section OpenBlank spaceSWE 3313/01 - Intro to Software Engineering
+CRN	Credit Hrs	Part/Term	Capacity	Enrolled	Seats Available
+16191	3.000	Full Term	40	26	14
+Campus	Instructional Method	Where	Days	Time	Start Date	End Date	Instructors
+Marietta Campus	Classroom - 100%	Atrium Building
+Room 156	
+U	M	T	W	R	F	S
+ 	 	X	 	X	 	 
+2:00 pm - 3:15 pm
+Lecture	Jan 08, 2024	May 06, 2024	Manijeh Chavoshi (P)
+
+Course Section OpenBlank spaceMATH 2345/57 - Discrete Mathematics
+CRN	Credit Hrs	Part/Term	Capacity	Enrolled	Seats Available
+13832	3.000	Full Term	36	11	25
+Campus	Instructional Method	Where	Days	Time	Start Date	End Date	Instructors
+Marietta Campus	Classroom - 100%	Mathematics
+Room 116	
+U	M	T	W	R	F	S
+ 	 	X	 	X	 	 
+3:30 pm - 4:45 pm
+Lecture	Jan 08, 2024	May 06, 2024	Zhu Cao (P)E-mail
+
+Blank spaceCS 3410/02 - Intro to Database Systems
+CRN	Credit Hrs	Part/Term	Capacity	Enrolled	Seats Available
+13870	3.000	Full Term	38	2	36
+Campus	Instructional Method	Where	Days	Time	Start Date	End Date	Instructors
+Marietta Campus	Classroom - 100%	Atrium Building
+Room 110	
+U	M	T	W	R	F	S
+ 	X	 	X	 	X	 
+9:05 am - 9:55 am
+Lecture	Jan 08, 2024	May 06, 2024	TBA
+Course Section OpenBlank spaceCSE 3801/01 - Professional Practices & Ethic
+CRN	Credit Hrs	Part/Term	Capacity	Enrolled	Seats Available
+16639	2.000	Full Term	120	12	108
+Campus	Instructional Method	Where	Days	Time	Start Date	End Date	Instructors
+Marietta Campus	Classroom - 100%	Academic Building
+Room 203	
+U	M	T	W	R	F	S
+ 	 	X	 	X	 	 
+9:30 am - 10:20 am
+Lecture	Jan 08, 2024	May 06, 2024	Lavanya Pondichery Sekar (P)
