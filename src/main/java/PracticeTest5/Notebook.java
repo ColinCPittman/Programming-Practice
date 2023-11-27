@@ -19,9 +19,7 @@ public class Notebook implements INotable {
             if (note != null && highestPriority == null) {
                 highestPriority = note;
             }
-            //the practice test is pretty explicit about what it wants to be implemented, getters for Note's priority were not mentioned, this next line is pretty hilarious
-            //looking, but it's just looking for the greatest value of the int priority on the Notes, which is printed out in the toString, I felt like working under the constraints for practice.
-            if (Integer.parseInt(highestPriority.toString().substring(0, note.toString().indexOf(','))) < Integer.parseInt(note.toString().substring(0, note.toString().indexOf(',')))) {
+            if (highestPriority.getPriority() < note.getPriority()) {
                 highestPriority = note;
             }
         }

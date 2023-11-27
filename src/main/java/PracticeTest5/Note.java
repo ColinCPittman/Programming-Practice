@@ -4,6 +4,14 @@ public class Note {
     private String theNote;
     private int priority;
 
+    public String getTheNote() {
+        return theNote;
+    }
+
+    public int getPriority() {
+        return priority;
+    }
+
     @Override
     public String toString() {
         return priority +", " + theNote;
