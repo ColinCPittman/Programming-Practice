@@ -1,2 +1,5 @@
-1, Doorknob
-2, Hinge
+Deadbolt,
+Key,
+Doorknob,
+Hinges,
+Frame,

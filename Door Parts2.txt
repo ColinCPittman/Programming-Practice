@@ -1,0 +1,2 @@
+1, Doorknob
+2, Hinge
